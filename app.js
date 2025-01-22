@@ -9,7 +9,7 @@ console.log("Text Input Element:", textInput);
 function clickHandler() {
     // console.log("Button clicked!");
     // console.log("Input Value:", textInput.value); // Log the current value of the input field
-    outputdiv.innerHTML = "Rohit is not a Topper" + textInput.value;
+    outputdiv.innerHTML = "" + textInput.value;
 };
 
 // Attach the click event listener to the button
