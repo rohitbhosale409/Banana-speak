@@ -1,7 +1,21 @@
 textarea {
     width: 80%;
     height: 10vh;
+    border: 1px solid black;
     display: block;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+div {
+    font-size: larger;
+    margin-top: 10px;
+}
+
+#Output {
+    border: 1px solid black;
+    height: 10vh;
+    width: 80%;
     margin: 1rem;
     padding: 1rem;
 }
